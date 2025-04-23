@@ -52,7 +52,7 @@ def admin_mode():
 #붕어빵 재고 확인
 def bread_num():
     while True:
-     bread_type = input("붕어빵 종류입력(팥,슈크림,초코) 뒤로가길 원한다면 뒤로가기")
+     bread_type = input("붕어빵 종류입력(팥붕어빵,슈크림붕어빵,초코붕어빵) 뒤로가길 원한다면 뒤로가기")
      if bread_type == "뒤로가기":
         break
 
