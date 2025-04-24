@@ -77,7 +77,7 @@ python3 fishbread_shop.py
 
 ## ✅ 사용 기술
 
-- Python 3.x
+- Python 3.13.3
 - 콘솔 입출력
 - 조건문, 반복문, 딕셔너리 활용
 - 클래스 설계 및 메서드 분리
